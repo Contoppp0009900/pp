@@ -1,5 +1,5 @@
 # Security Policy
-No modifications will be added to this repository as of now or till mobile launch for security
+No modifications will be added to this repository as of now or till mobile multiplayer launch for security
 
 ## Supported Versions
 
