@@ -6,7 +6,7 @@ No modifications will be added to this repository as of now or till mobile launc
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 1.0.1   | Y                  |
+| 1.0.1   | ✅              |
 
 ## Reporting a Vulnerability
 
